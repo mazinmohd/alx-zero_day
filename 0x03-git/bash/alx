@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 #!/bin/bash
 echo "ALX is amazing"
+=======
+echo "is so cool!"
+>>>>>>> master
